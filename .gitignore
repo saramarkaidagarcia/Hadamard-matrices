@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Project-specific
+*.npy
+hadamard_checkpoint.npy
+hadamard_*.npy
+hadamard_*.txt
+.DS_Store
+.idea/
+.vscode/
