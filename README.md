@@ -204,20 +204,7 @@ hadamard-matrices/
 - Location: London, UK
 - Education: MSc Mathematics and Finance (Imperial College London, 2026–2027)
 
-## License
 
-MIT License — see [LICENSE](LICENSE) for details.
-
-## Citation
-
-If you use this code in academic work, please cite:
-
-```bibtex
-@thesis{markaida2026hadamard,
-  author    = {Markaida García, Sara},
-  title     = {Hadamard Matrices},
-  school    = {University of the Basque Country (UPV/EHU)},
-  year      = {2026}
 }
 ```
 
